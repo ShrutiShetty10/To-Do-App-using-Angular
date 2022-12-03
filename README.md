@@ -1,3 +1,5 @@
+Helps users create to-do lists.The tasks can be segregated into 3 different types -to-do, in progress and done tasks.
+
 # AngularTodoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
